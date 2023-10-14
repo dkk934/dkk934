@@ -1,5 +1,4 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dkk934&label=Profile%20views&color=0e75b6&style=flat" alt="dkk934" /> </p>
-<center>
 <h1 align="center">HI... I'm DK</h1>
 <h3 align="center">A passionate Fullstack developer from INDAI</h3>
 
@@ -27,10 +26,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dkk934" alt="dkk934" /></a> </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dkk934&" alt="dkk934" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dkk934&bg_color=0d1117" alt="dkk934" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dkk934&show_icons=true&locale=en&layout=compact" alt="dkk934" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dkk934&show_icons=true&locale=en&layout=compact&bg_color=0d1117" alt="dkk934" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dkk934&show_icons=true&locale=en" alt="dkk934" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dkk934&show_icons=true&locale=en&bg_color=0d1117" alt="dkk934" /></p>
 
-</center>
