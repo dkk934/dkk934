@@ -30,9 +30,9 @@
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=dkk934&theme=transparent&hide_border=true&border_radius=5" alt="GitHub Streak" /></a>
 <br/>
+<hr/>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dkk934&show_icons=true&locale=en&layout=compact&bg_color=0d1117&text_color=ffffff&hide_border=true" alt="dkk934" alt="dkk934" /></p>
 <br/>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dkk934&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&hide_border=true" alt="dkk934" /></p>
 
