@@ -38,3 +38,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dkk934&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&hide_border=true" alt="dkk934" /></p>
 
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=DKK934&section=footer&reversal=false&animation=blink&textBg=false&fontColor=0d1117&fontSize=45&fontAlign=50&fontAlignY=65"/>
+</p>
