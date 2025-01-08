@@ -32,6 +32,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dkk934&theme=onestar&no-bg=true&no-frame=true&margin-h=25" alt="dkk934" /></a> </p>
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=dkk934&theme=transparent&hide_border=true&border_radius=5" alt="GitHub Streak" /></a>
+
+## ⚡Activity Graph
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=dkk934&theme=react-dark"/>
 <br/>
 <hr/>
 
