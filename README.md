@@ -5,8 +5,6 @@
 <h1 align="center">Hi 👋, I'm DK</h1>
 <h3 align="center">A Passionate Fullstack Developer from India</h3>
 
----
-
 - 🔭 I’m currently working on **Personal AI Assistant**  
 - 📫 Reach me at **dkking934@gmail.com**
 
@@ -76,8 +74,6 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dkk934&theme=react-dark" alt="Activity Graph">
 </p>
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=DKK934&section=footer&fontColor=0d1117&fontSize=45&fontAlign=50&fontAlignY=65" alt="Footer Banner">
