@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dkk934&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+
+<img src="https://komarev.com/ghpvc/?username=dkk934&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 
 <h1 align="center">Hi 👋, I'm DK</h1>
 <h3 align="center">A Passionate Fullstack Developer from India</h3>
