@@ -5,12 +5,6 @@
 <h1 align="center">Hi 👋, I'm DK</h1>
 <h3 align="center">A Passionate Fullstack Developer from India</h3>
 
-<p align="center">
-  <a href="https://twitter.com/" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="Twitter Follow">
-  </a>
-</p>
-
 ---
 
 - 🔭 I’m currently working on **Personal AI Assistant**  
