@@ -46,9 +46,9 @@
 ---
 
 <h3 align="center">🔥 Streak Stats</h3>
-<p align="center">
+<div align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=dkk934&theme=transparent&hide_border=true&border_radius=5&short_numbers=true&card_width=500&ring=FF5050C8&fire=FF0000" alt="GitHub Streak" /></a>
-</p>
+</div>
 
 ---
 
