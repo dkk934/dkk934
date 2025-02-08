@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm DK</h1>
 <h3 align="center">A Passionate Fullstack Developer from India</h3>
 
-- 🔭 I’m currently working on **Personal AI Assistant**  
+- 🔭 I’m currently working on ** Social Site**  
 - 📫 Reach me at **dkking934@gmail.com**
 
 ---
